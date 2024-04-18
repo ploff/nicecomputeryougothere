@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UseWPF>true</UseWPF>
+        <PackageId />
+        <PackageVersion />
+        <Authors />
+        <Company />
+        <Product />
+        <ApplicationIcon>icon.ico</ApplicationIcon>
+        <UserSecretsId>bb8aafea-d386-4995-a42d-e45343beea27</UserSecretsId>
+    </PropertyGroup>
+
+</Project>
